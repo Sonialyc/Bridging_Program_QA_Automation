@@ -64,4 +64,8 @@ Whether you are a fellow QA Automation enthusiast, a software development team, 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Disclaimer
+
+🚧 This project is intended solely for educational purposes to showcase my skills in Selenium and Python. It does not encourage or endorse any automated interactions on the LinkedIn website that might violate LinkedIn's terms of service. My focus is on learning and skill-building. Users are advised to use this project responsibly and in compliance with all applicable terms and policies.
+
 ### Happy testing and automation! 🚀 🤖
