@@ -1,4 +1,4 @@
-# Sonia's QA Automation Learning Repository
+# QA Automation Learning Repository
 
 Welcome to my QA Automation Learning Repository! This repository is dedicated to showcasing my journey as a QA Automation student, focusing on my Automating Tests for LinkedIn Website Project (test_LinkedIn_Project). It serves as a testament to my growth and progress in the field.
 
